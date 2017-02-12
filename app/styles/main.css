@@ -1,0 +1,57 @@
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+/* Custom page header */
+.header {
+  padding-bottom: 1rem;
+  border-bottom: .05rem solid #e5e5e5;
+}
+
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 3rem;
+}
+
+
+
+button.btn {
+  margin-top: 40px;
+  background: #66bb6a;
+  border-radius: 4px;
+}
+
+  .first {
+    background: #66bb6a;
+  }
+  .second {
+    background: #424242;
+  }
+  .third {
+    background: #66bb6a;
+  }
+  .fourth {
+    background: #424242;
+  }
+
+
+.fourth button {
+  margin-top: 20px;
+}
+
+p {
+  margin-bottom: 30px;
+}
+
+#fp-nav ul li a span {
+  background: "black";
+}
+
+img {
+  margin: 0 auto;
+}
